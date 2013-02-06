@@ -1,3 +1,11 @@
+//
+//  main.js
+//
+//  Boidメインプログラム
+//
+//  Created by ICHIOKA Akira on 2013/02/06.
+//  Copyright ICHIOKA Akira 2013. All rights reserved.
+//
 enchant();
 
 // シーンの幅、高さ
